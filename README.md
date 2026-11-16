@@ -1,4 +1,4 @@
-﻿# LLM Training Cookbook
+# LLM Training Cookbook
 
 **From a laptop to a GPU cluster: everything a solo builder needs to train, fine-tune, and ship their own LLM.**
 
@@ -90,5 +90,9 @@ Open an issue or a pull request. For factual corrections, include the source.
 
 - **Documentation** (`README.md` and everything in `docs/`): [CC BY 4.0](LICENSE-DOCS)
 - **Code** (scripts and recipes, when added): [MIT](LICENSE)
+
+## Author
+
+Maintained by Rakibul ([@rakibuilds](https://github.com/rakibuilds)).
 
 If this helped you, star the repo and share it with another builder.
