@@ -1,7 +1,10 @@
-# LLM Training Cookbook
+<p align="center">
+  <img src="assets/logo-horizontal.svg" alt="LLM Training Cookbook" width="560">
+</p>
 
-**From a laptop to a GPU cluster: everything a solo builder needs to train, fine-tune, and ship their own LLM.**
-
+<p align="center">
+  <b>From a laptop to a GPU cluster: everything a solo builder needs to train, fine-tune, and ship their own LLM.</b>
+</p>
 A practical, honest guide to how large language models are trained, and how one person with a laptop and a small budget can build real models of their own.
 
 > Last verified: November 2026. Prices, free tiers, and library APIs change fast. Items marked **(verify)** should be checked before you rely on them.
