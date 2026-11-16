@@ -37,6 +37,7 @@ You should be comfortable with Python and basic machine learning ideas. You do *
 | [`docs/llm-training-deep-dive.md`](docs/llm-training-deep-dive.md) | How frontier labs train models: hardware, parallelism (DP/TP/PP/CP/EP), FP8 and mixed precision, optimizers, fault tolerance, post-training (SFT, RLHF, GRPO), and case studies of Llama 3 and DeepSeek-V3/R1. |
 | [`docs/llm-training-cheatsheet.md`](docs/llm-training-cheatsheet.md) | Formulas, numbers to memorize, glossary, a debugging table, 25 flashcards, and a self-quiz. |
 | [`docs/indie-deep-dive.md`](docs/indie-deep-dive.md) | The solo-builder path: what fits on your laptop, QLoRA fine-tuning, continued pretraining, GRPO, renting GPUs, cost estimates, when you need a cluster, and which open labs and models to build on. |
+| [`docs/glossary.md`](docs/glossary.md) | Plain-English glossary of every term used in the guides, with full forms and common confusions cleared up. |
 
 ## Why this exists
 
